@@ -1,0 +1,22 @@
+div {
+  display: flex;
+  min-height: 100vh;
+}
+p {
+  margin: auto;
+}
+
+/* deco */
+body {margin: 0;
+  	font-family: "Century Gothic", helvetica, arial, sans-serif;
+}
+div {
+    background: pink;
+}
+p {
+    background: olivedrab;
+    color: #fff;
+    padding: 1em;
+    border-radius: 10px;
+    font-size: 3rem;
+}
