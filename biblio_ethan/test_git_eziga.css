@@ -11,11 +11,11 @@ body {margin: 0;
   	font-family: "Century Gothic", helvetica, arial, sans-serif;
 }
 div {
-    background: pink;
+    background: yellow;
 }
 p {
-    background: olivedrab;
-    color: #fff;
+    background: orange;
+    color: #000;
     padding: 1em;
     border-radius: 10px;
     font-size: 3rem;
